@@ -18,8 +18,8 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import java.io.IOException;
 
-@Configuration
-@EnableWebSecurity // -> 필수적으로 넣어야한다.
+//@Configuration
+//@EnableWebSecurity // -> 필수적으로 넣어야한다.
 @RequiredArgsConstructor
 public class SecurityConfig {
 
